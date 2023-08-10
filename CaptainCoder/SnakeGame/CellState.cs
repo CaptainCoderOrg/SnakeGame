@@ -1,11 +1,11 @@
-namespace CaptainCoder.SnakeGame
-{
-    public enum CellState
-    {
-        Empty,
-        Food,
-        SnakeHead,
-        SnakeBody,
-        SnakeTail
-    }
-}
+// namespace CaptainCoder.SnakeGame
+// {
+//     public enum CellState
+//     {
+//         Empty,
+//         Food,
+//         SnakeHead,
+//         SnakeBody,
+//         SnakeTail
+//     }
+// }
